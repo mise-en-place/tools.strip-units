@@ -5,7 +5,7 @@
   "main": "stylesheets/_tool-strip-units.scss",
   "eyeglass": {
     "needs": "^1.0.0",
-    "name": "tool-srtip-units",
+    "name": "tool-strip-units",
     "exports": "eyeglass-exports.js"
   },
   "keywords": [
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mise-en-place/tools.stip-units.git"
+    "url": "https://github.com/mise-en-place/tools.strip-units.git"
   },
   "author": "Kind",
   "license": "MIT"
