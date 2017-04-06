@@ -1,15 +1,9 @@
 {
   "name": "mep-tools.strip-units",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Strip Units Tool",
   "main": "stylesheets/_tool-strip-units.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "tool-strip-units",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
